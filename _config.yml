@@ -21,7 +21,7 @@ repository               : "shashwat1198/shashwat1198.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "http://academicpages.github.io/images/shashwat.jpeg"
   name             : "Shashwat Khandelwal"
   pronouns         : # example: "she/her"  
   bio              : "Exploring field of hardware design"
