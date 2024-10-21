@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Electronic & Electrical Engineering, Trinity College Dublin"
-date: 2023-04
+date: 2023-04-01
 location: "Dublin, Ireland"
 ---
 
